@@ -1,7 +1,0 @@
-user login: FacultyThapar
-password:   thapar2019
-
-
-Your application reference no. is O-J00024604.
-
-9e6c2n
